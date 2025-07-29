@@ -28,3 +28,8 @@ criaCartao(
     'O que é o python',
     'linguagem de programação versátil e de alto nível'
 )
+criaCartao(
+    'Quimica',
+    'O que é o elemento H na tabela periodica',
+    'é o Hidrogenio'
+)
